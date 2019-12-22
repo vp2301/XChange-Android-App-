@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810045659116",
+    "firebase_url": "https://xchange-860da.firebaseio.com",
+    "project_id": "xchange-860da",
+    "storage_bucket": "xchange-860da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810045659116:android:4aeb76039050e0935e12c9",
+        "android_client_info": {
+          "package_name": "com.example.xchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810045659116-udimki7udcdrgrc7f4p96gigs9oc2lqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xchange",
+            "certificate_hash": "fa7ebcdb18e53a4737b78b05b1be9acf7073165f"
+          }
+        },
+        {
+          "client_id": "810045659116-u7256j5mba9phd3q2dii619m12k4r4r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEFMeXGAw4Kiuy8J3WlmyLT8l3tJeeoAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810045659116-u7256j5mba9phd3q2dii619m12k4r4r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
